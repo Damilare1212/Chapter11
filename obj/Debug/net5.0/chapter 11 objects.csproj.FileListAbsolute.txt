@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\bin\Debug\net5.0\chapter 11 objects.exe
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\bin\Debug\net5.0\chapter 11 objects.deps.json
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\bin\Debug\net5.0\chapter 11 objects.runtimeconfig.json
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\bin\Debug\net5.0\chapter 11 objects.runtimeconfig.dev.json
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\bin\Debug\net5.0\chapter 11 objects.dll
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\bin\Debug\net5.0\ref\chapter 11 objects.dll
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\bin\Debug\net5.0\chapter 11 objects.pdb
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.AssemblyInfo.cs
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.dll
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\ref\chapter 11 objects.dll
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.pdb
+C:\Users\USER\Desktop\textbook fundermental programing\chapter 11 objects\obj\Debug\net5.0\chapter 11 objects.genruntimeconfig.cache
